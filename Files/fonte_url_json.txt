@@ -1,0 +1,4 @@
+FONTE PARA EXERCICIO
+
+https://data.townofcary.org/api/v2/catalog/datasets/rdu-weather-history
+https://www.sba.gov/sites/default/files/data.json
